@@ -51,3 +51,5 @@ Extern has park kind arch marry.
 Extern has park kind arch land.
 
 Extern is did.
+
+Extern has major.
